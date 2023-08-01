@@ -1,19 +1,15 @@
 {
-  "name": "primeiro-servidor",
+  "name": "primeiroservidor",
   "version": "1.0.0",
-  "description": "Projeto desenvolvido na aula de primeiro servidor da cubos academy",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "node",
-    "javascript",
-    "npm"
-  ],
-  "author": "Lívia Nascimento",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "express": "^4.18.2"
   }
 }
